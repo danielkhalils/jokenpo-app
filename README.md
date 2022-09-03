@@ -1,6 +1,6 @@
 # jokenpo
 
-A new Flutter project.
+Projeto do jogo Jokenpo.
 
 ## Getting Started
 
